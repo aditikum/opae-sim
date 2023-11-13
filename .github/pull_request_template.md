@@ -15,8 +15,8 @@
 
 
 ### Collateral (docs, reports, design examples, case IDs):
-
-
+Link to design example:
+(all new features require a design example) 
 
 - [ ] Document Update Required? (Specify FIM/AFU/Scripts)
 
