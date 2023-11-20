@@ -15,9 +15,9 @@
 
 
 ### Collateral (docs, reports, design examples, case IDs):
-Link to design example:
-(all new features require a design example) 
-
+- [ ] New feature 
+ All new features must have a corresponding working example of how to use the feature. Can be new or existing example.
+ Please add link here: 
 - [ ] Document Update Required? (Specify FIM/AFU/Scripts)
 
 ### Tests added:
